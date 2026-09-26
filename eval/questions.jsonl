@@ -1,0 +1,18 @@
+{"question": "Quelles sont les responsabilités de l'organe de direction dans la gestion du risque lié aux TIC ?", "attendu": [["DORA", "5"]]}
+{"question": "Que doit contenir le cadre de gestion du risque lié aux TIC d'une entité financière ?", "attendu": [["DORA", "6"]]}
+{"question": "Quelles exigences s'appliquent à la politique de continuité des activités de TIC et aux plans de réponse et de rétablissement ?", "attendu": [["DORA", "11"]]}
+{"question": "Que prévoit le texte sur les politiques de sauvegarde et les procédures de restauration des données ?", "attendu": [["DORA", "12"]]}
+{"question": "Comment mettre en place un processus de gestion des incidents liés aux TIC ?", "attendu": [["DORA", "17"]]}
+{"question": "Selon quels critères classer les incidents liés aux TIC et les cybermenaces ?", "attendu": [["DORA", "18"]]}
+{"question": "Comment notifier un incident majeur lié aux TIC à l'autorité compétente ?", "attendu": [["DORA", "19"]]}
+{"question": "Qu'est-ce que les tests de pénétration fondés sur la menace et qui doit les réaliser ?", "attendu": [["DORA", "26"]]}
+{"question": "Quelles clauses doivent figurer dans les contrats avec les prestataires tiers de services TIC ?", "attendu": [["DORA", "30"]]}
+{"question": "Faut-il tenir un registre d'informations sur les accords contractuels avec les prestataires tiers de services TIC ?", "attendu": [["DORA", "28"]]}
+{"question": "Dans quel délai notifier une violation de données personnelles à l'autorité de contrôle ?", "attendu": [["RGPD", "33"]]}
+{"question": "Quand faut-il réaliser une analyse d'impact relative à la protection des données ?", "attendu": [["RGPD", "35"]]}
+{"question": "Dans quels cas la désignation d'un délégué à la protection des données est-elle obligatoire ?", "attendu": [["RGPD", "37"]]}
+{"question": "Que signifie la protection des données dès la conception et par défaut ?", "attendu": [["RGPD", "25"]]}
+{"question": "Que doit contenir le registre des activités de traitement ?", "attendu": [["RGPD", "30"]]}
+{"question": "Quand une personne peut-elle obtenir l'effacement de ses données ?", "attendu": [["RGPD", "17"]]}
+{"question": "Quelles mesures techniques et organisationnelles pour assurer la sécurité du traitement ?", "attendu": [["RGPD", "32"]]}
+{"question": "Quels sont les grands principes du traitement comme la minimisation et la limitation de la conservation ?", "attendu": [["RGPD", "5"]]}

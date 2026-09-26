@@ -1,0 +1,5 @@
+Code monétaire et financier (extrait fictif pour les tests)
+Article L561-15
+Les personnes assujetties déclarent au service fictif les sommes dont elles soupçonnent qu'elles proviennent d'une infraction.
+Article L561-12
+Les personnes assujetties conservent pendant une durée fictive de cinq ans les documents relatifs à l'identité de leurs clients.
