@@ -100,3 +100,4 @@ Pour du 100 % local : installe [Ollama](https://ollama.com), lance `ollama pull 
 Projet personnel réalisé par **Stéphane Hounkpatin** (Ingénieur Cybersécurité & GRC, MSc Risk Management,
 Contrôle & Compliance – INSEEC). Il sert à explorer l'usage des LLM en conformité, de façon maîtrisée et
 traçable.
+# assistant-reglementaire
